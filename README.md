@@ -20,7 +20,7 @@ Data Augmentation: We will apply data augmentation (crop, rotation, scaling, and
 
 ### Hyperparameters Tuning
 - We test different hyper parameters to get the best result.
-- 
+
 ## *For Notebooks*
 ### Data Pre-processing
 - Check notebook "pre_processing"
