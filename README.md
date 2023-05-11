@@ -30,7 +30,7 @@ Example of Non Head and Shoulder Data Creation:
 ## *For Notebooks*
 ### Data Pre-processing
 - Check notebook "pre_processing"
-- Creaeted function for head and shoulder recognition
+- Created function for head and shoulder recognition
 
 ### Modeling
 - Alexnet
