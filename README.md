@@ -38,7 +38,9 @@ Example of Non Head and Shoulder Data Creation:
 - GoogLeNet
 
 ### Results:
--Alexnet: 90.89%	
--Googlenet: 96.59%  	  
+-Alexnet: 90.89%
+
+-Googlenet: 96.59%
+
 -Resnet: 90.91%
 
