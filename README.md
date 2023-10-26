@@ -1,4 +1,4 @@
-# Head and Shoulder Classification Project
+# Head and Shoulder CNN Classification Project
 
 Project Members: 
 	Teng Liang and Frank Li	
